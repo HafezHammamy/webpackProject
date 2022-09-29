@@ -1,2 +1,3 @@
-# Webpack 2 Basics Tutorial
-This repository holds the source code of my Webpack 2 Basics Series on YouTube. Make sure to watch the Videos on YouTube to understand how to use that code.
+# Webpack 5 skeleton app
+this app implementation is a get joke on click it is built using webpack,
+and its a great project to make clear understanding of webpack initiation.
